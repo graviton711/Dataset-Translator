@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+coverage/
+.npm/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug_log.txt
+build_log.txt
+build_log_vs.txt
+build_log_vs_2.txt
+
+# Models & Large Files
+backend/model/
+*.gguf
+*.bin
+*.pth
+
+# IDE
+.vscode/
+.idea/

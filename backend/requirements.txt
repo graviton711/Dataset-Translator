@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+openpyxl
+transformers
+torch
+sentencepiece
+scipy
+llama-cpp-python
+googletrans==4.0.0-rc1
+"multipart<2.0.0,>=1.0.0"
