@@ -1,7 +1,5 @@
 # Dataset Translator
 
-![Dataset Translator Mockup](dataset_translator_mockup.png)
-
 ## Giới thiệu
 Dataset Translator là một công cụ mạnh mẽ giúp dịch các bộ dữ liệu lớn (CSV, Excel, JSON, TXT) một cách tự động và chính xác sử dụng công nghệ AI. Dữ liệu được hiển thị trực quan dưới dạng bảng, cho phép người dùng dễ dàng theo dõi và chỉnh sửa.
 
